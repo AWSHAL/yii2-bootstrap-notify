@@ -1,5 +1,5 @@
 {
-  "name": "AWSHAL/yii2-bootstrap-notify",
+  "name": "awshal/yii2-bootstrap-notify",
   "description": "Alert widget based on Bootstrap Notify extension {@link http://bootstrap-notify.remabledesigns.com/)",
   "type": "yii2-extension",
   "keywords": [
