@@ -14,7 +14,7 @@ class BootstrapNotifyAsset extends AssetBundle
     /**
      * @var string the directory that contains the source asset files for this asset bundle.
      */
-    public $sourcePath = '@bower/remarkable-bootstrap-notify';
+    public $sourcePath = '@bower/remarkable-bootstrap-notify/dist';
 
     /**
      * @var array list of JavaScript files that this bundle contains.
