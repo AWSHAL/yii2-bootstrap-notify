@@ -11,6 +11,14 @@ use yii\web\AssetBundle;
  */
 class AnimateAsset extends AssetBundle
 {
+    public $publishOptions = [
+        'forceCopy' => false,
+        'only' => [
+            'animate.css',
+            'animate.min.css'
+        ]
+    ];
+
     /**
      * @var string the directory that contains the source asset files for this asset bundle.
      */
