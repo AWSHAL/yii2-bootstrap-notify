@@ -20,7 +20,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2mod/yii2-bootstrap-notify "*"
+php composer.phar require --prefer-dist awshal/yii2-bootstrap-notify "*"
 ```
 
 or add
